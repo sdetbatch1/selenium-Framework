@@ -4,6 +4,9 @@ Git add .
 git commit -m
 git reset
 git push
+git branch
+git checkout
+
 
 
 
